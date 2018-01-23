@@ -1,0 +1,10 @@
+github > new repository
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+touch readme.md
+nano readme.md
+git status
+git add .
+git commit -m "dummy commit"
+touch GitHubRepoAssignment.txt
